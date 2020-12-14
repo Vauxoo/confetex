@@ -1,0 +1,4 @@
+[submodule "confetex"]
+	path = confetex
+	url = git@git.vauxoo.com:vauxoo/confetex.git
+	branch = 12.0
