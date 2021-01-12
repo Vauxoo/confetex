@@ -6,3 +6,7 @@
 	path = itadmin01_confetex
 	url = git@github.com:itadmin01/confetex.git
 	branch = 12.0
+[submodule "reporting-engine"]
+	path = reporting-engine
+	url = git@github.com:Vauxoo/reporting-engine.git
+	branch = 12.0
