@@ -2,3 +2,7 @@
 	path = confetex
 	url = git@git.vauxoo.com:vauxoo/confetex.git
 	branch = 12.0
+[submodule "itadmin01_confetex"]
+	path = itadmin01_confetex
+	url = git@github.com:itadmin01/confetex.git
+	branch = 12.0
