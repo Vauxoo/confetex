@@ -10,7 +10,3 @@
 	path = reporting-engine
 	url = git@github.com:Vauxoo/reporting-engine.git
 	branch = 12.0
-[submodule "payment_scheduling"]
-	path = payment_scheduling
-	url = git@git.vauxoo.com:vauxoo-dev/payment_scheduling.git
-	branch = 12.0-confetex-hbto
