@@ -22,3 +22,8 @@
 	path = sh-tools
 	url = git@git.vauxoo.com:vauxoo/sh-tools.git
 	branch = 15.0
+
+[submodule "vauxoo-dev/account-financial-tools"]
+	path = vauxoo-dev/account-financial-tools
+	url = git@github.com:vauxoo-dev/account-financial-tools.git
+	branch = 14.0-account_move_name_sequence-dev-frahik
