@@ -38,10 +38,6 @@
 	path = l10n-mx-edi-account-move-report
 	url = git@git.vauxoo.com:mexico/l10n-mx-edi-account-move-report.git
 	branch = 18.0
-[submodule "l10n-mx-edi-cancellation"]
-	path = l10n-mx-edi-cancellation
-	url = git@git.vauxoo.com:mexico/l10n-mx-edi-cancellation.git
-	branch = 18.0
 [submodule "l10n-mx-partner-blocklist"]
 	path = l10n-mx-partner-blocklist
 	url = git@git.vauxoo.com:mexico/l10n-mx-partner-blocklist.git
